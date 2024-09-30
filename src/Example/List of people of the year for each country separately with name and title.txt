@@ -1,0 +1,136 @@
+Residents of the United States:
+Citizen: Charles Lindbergh, with the title - US Air Mail Pilot
+Citizen: Walter Chrysler, with the title - Founder of Chrysler
+Citizen: Owen D. Young, with the title - Member of the German Reparations International Commission
+Citizen: Franklin D. Roosevelt, with the title - President of the United States
+Citizen: Hugh S. Johnson, with the title - Director of the National Recovery Administration
+Citizen: Franklin D. Roosevelt, with the title - President of the United States
+Citizen: Wallis Simpson, with the title - Duchess of Windsor
+Citizen: Franklin D. Roosevelt, with the title - President of the United States
+Citizen: George Marshall, with the title - Army Chief of Staff
+Citizen: Dwight D. Eisenhower, with the title - Supreme Allied Commander in Europe
+Citizen: Harry S. Truman, with the title - President of the United States
+Citizen: James F. Byrnes, with the title - Secretary of State
+Citizen: George Marshall, with the title - Secretary of State
+Citizen: Harry S. Truman, with the title - President of the United States
+Citizen: The American Soldier, with the title - 
+Citizen: John Foster Dulles, with the title - Secretary of State
+Citizen: Harlow Curtice, with the title - President of General Motors (GM)
+Citizen: Dwight D. Eisenhower, with the title - President of the United States
+Citizen: American Scientists, with the title - 
+Citizen: John F. Kennedy, with the title - President of the United States
+Citizen: Martin Luther King Jr., with the title - President of the Southern Christian Leadership Conference
+Citizen: Lyndon B. Johnson, with the title - President of the United States
+Citizen: William Westmoreland, with the title - Army General
+Citizen: The Inheritor, with the title - 
+Citizen: Lyndon B. Johnson, with the title - President of the United States
+Citizen: The Apollo 8 Astronauts (William Anders), with the title - NASA Astronaut
+Citizen: The Apollo 8 Astronauts (Frank Borman), with the title - NASA Astronaut
+Citizen: The Apollo 8 Astronauts (Jim Lovell), with the title - NASA Astronaut
+Citizen: Richard Nixon, with the title - President of the United States
+Citizen: Richard Nixon, with the title - President of the United States
+Citizen: Henry Kissinger, with the title - National Security Advisor
+Citizen: John Sirica, with the title - Chief Judge of the United States District Court (District of Columbia)
+Citizen: Jimmy Carter, with the title - President of the United States
+Citizen: Ronald Reagan, with the title - President of the United States
+Citizen: Ronald Reagan, with the title - President of the United States
+Citizen: Peter Ueberroth, with the title - President of the 1984 Summer Olympic Games Organizing Committee
+Citizen: George H. W. Bush, with the title - President of the United States
+Citizen: Ted Turner, with the title - Founder of CNN
+Citizen: Bill Clinton, with the title - President of the United States
+Citizen: Newt Gingrich, with the title - Speaker of the House
+Citizen: David Ho, with the title - Director of AIDS Research Center
+Citizen: Andrew Grove, with the title - CEO of Intel
+Citizen: Bill Clinton, with the title - President of the United States
+Citizen: Ken Starr, with the title - Office of the Independent Counsel
+Citizen: Jeff Bezos, with the title - Founder and CEO of Amazon
+Citizen: George W. Bush, with the title - President of the United States
+Citizen: Rudy Giuliani, with the title - Mayor of New York City
+Citizen: The Whistleblowers (Cynthia Cooper), with the title - Vice President of Internal Audit at WorldCom
+Citizen: The Whistleblowers (Coleen Rowley), with the title - FBI Special Agent
+Citizen: The Whistleblowers (Sherron Watkins), with the title - Vice President of Corporate Development at Enron
+Citizen: The American Soldier, with the title - 
+Citizen: George W. Bush, with the title - President of the United States
+Citizen: The Good Samaritans (Bill Gates), with the title - Founder of Bill & Melinda Gates Foundation
+Citizen: The Good Samaritans (Melinda Gates), with the title - Founder of Bill & Melinda Gates Foundation
+Citizen: Barack Obama, with the title - President of the United States
+Citizen: Ben Bernanke, with the title - Chairman of the Federal Reserve
+Citizen: Mark Zuckerberg, with the title - Founder and CEO of Facebook
+Citizen: Barack Obama, with the title - President of the United States
+Citizen: Donald Trump, with the title - President of the United States
+
+Residents of the India:
+Citizen: Mahatma Gandhi, with the title - 
+
+Residents of the France:
+Citizen: Pierre Laval, with the title - Prime Minister of France
+Citizen: Charles de Gaulle, with the title - President of France
+
+Residents of the Ethiopia:
+Citizen: Haile Selassie, with the title - Emperor of Ethiopia
+
+Residents of the China:
+Citizen: Chiang Kai-shek, with the title - Premier of the Republic of China
+Citizen: Soong Mei-ling, with the title - First Lady of the Republic of China
+Citizen: Deng Xiaoping, with the title - Paramount Leader of the People’s Republic of China
+Citizen: Deng Xiaoping, with the title - Paramount Leader of the People’s Republic of China
+
+Residents of the Germany:
+Citizen: Adolf Hitler, with the title - Chancellor of Germany
+Citizen: Angela Merkel, with the title - Chancellor of Germany
+
+Residents of the Soviet Union:
+Citizen: Joseph Stalin, with the title - General Secretary of the Communist Party of the Soviet Union
+Citizen: Joseph Stalin, with the title - Premier of the Soviet Union
+Citizen: Nikita Khrushchev, with the title - General Secretary of the Communist Party of the Soviet Union
+Citizen: Yuri Andropov, with the title - General Secretary of the Communist Party of the Soviet Union
+Citizen: Mikhail Gorbachev, with the title - General Secretary of the Communist Party of the Soviet Union
+
+Residents of the United Kingdom:
+Citizen: Winston Churchill, with the title - Prime Minister of the United Kingdom
+Citizen: Elizabeth II, with the title - Queen of England
+
+Residents of the Iran:
+Citizen: Mohammad Mossadegh, with the title - Prime Minister of Iran
+Citizen: Ayatollah Khomeini, with the title - Supreme Leader of Iran
+
+Residents of the West Germany:
+Citizen: Konrad Adenauer, with the title - Chancellor of West Germany
+Citizen: Willy Brandt, with the title - Chancellor of West Germany
+
+Residents of the Hungary:
+Citizen: The Hungarian Freedom Fighter, with the title - 
+
+Residents of the Vatican City:
+Citizen: Pope John XXIII, with the title - Pope of the Roman Catholic Church
+Citizen: Pope John Paul II, with the title - Pope of the Roman Catholic Church
+Citizen: Pope Francis, with the title - Pope of the Roman Catholic Church
+
+Residents of the Saudi Arabia:
+Citizen: King Faisal, with the title - King of Saudi Arabia
+
+Residents of the Egypt:
+Citizen: Anwar Sadat, with the title - President of Egypt
+
+Residents of the Poland:
+Citizen: Lech Wałęsa, with the title - Chairperson of Solidarity (Polish Trade Union)
+
+Residents of the Philippines:
+Citizen: Corazon Aquino, with the title - President of the Philippines
+
+Residents of the Israel:
+Citizen: The Peacemakers (Yitzhak Rabin), with the title - Prime Minister of Israel
+
+Residents of the Palestine:
+Citizen: The Peacemakers (Yasser Arafat), with the title - President of the Palestinian National Authority
+
+Residents of the South Africa:
+Citizen: The Peacemakers (F. W. de Klerk), with the title - State President of South Africa
+Citizen: The Peacemakers (Nelson Mandela), with the title - President of South Africa
+
+Residents of the Ireland:
+Citizen: The Good Samaritans (Bono), with the title - Lead Singer of U2
+
+Residents of the Russia:
+Citizen: Vladimir Putin, with the title - President of the Russian Federation
+
